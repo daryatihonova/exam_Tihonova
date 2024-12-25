@@ -1,0 +1,7 @@
+D:\Users\stu-ipsp121\Desktop\exam_Tihonova\src\exam_Tihonova\exam_Tihonova\bin\Debug\exam_Tihonova.exe.config
+D:\Users\stu-ipsp121\Desktop\exam_Tihonova\src\exam_Tihonova\exam_Tihonova\bin\Debug\exam_Tihonova.exe
+D:\Users\stu-ipsp121\Desktop\exam_Tihonova\src\exam_Tihonova\exam_Tihonova\bin\Debug\exam_Tihonova.pdb
+D:\Users\stu-ipsp121\Desktop\exam_Tihonova\src\exam_Tihonova\exam_Tihonova\obj\Debug\exam_Tihonova.csprojAssemblyReference.cache
+D:\Users\stu-ipsp121\Desktop\exam_Tihonova\src\exam_Tihonova\exam_Tihonova\obj\Debug\exam_Tihonova.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp121\Desktop\exam_Tihonova\src\exam_Tihonova\exam_Tihonova\obj\Debug\exam_Tihonova.exe
+D:\Users\stu-ipsp121\Desktop\exam_Tihonova\src\exam_Tihonova\exam_Tihonova\obj\Debug\exam_Tihonova.pdb
